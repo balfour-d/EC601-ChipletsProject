@@ -9,15 +9,15 @@ Possible project topics
 - how different nanotechnologies can work together in the same chiplet, (more R&D and understanding)
 
 
-Project:
+# Project:
 - looking into the building and implementation of a system-on-a-chip
 
-Before next meeting: 
+# Before next meeting: 
 - look into simulators and software to build/implement
 - look into research papers related to design of systems
 - email professor about student who works with chiplets
 
-Next Meeting:
+# Next Meeting:
 - determine feasibility of build/implementation
 - determine what product we want to design
 - complete project definition, user stories, MVP
