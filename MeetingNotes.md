@@ -16,6 +16,7 @@ Possible project topics
 - look into simulators and software to build/implement
 - look into research papers related to design of systems
 - email professor about student who works with chiplets
+- complete individual literature reviews
 
 # Next Meeting:
 - determine feasibility of build/implementation
