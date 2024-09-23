@@ -23,3 +23,7 @@ Possible project topics
 - determine what product we want to design
 - complete project definition, user stories, MVP
 - collate sources and complete paper
+
+# Goals for Sprint 2
+- choose a method of simulation
+- simulate a standard FPGA 
