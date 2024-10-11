@@ -6,7 +6,7 @@
 - How feasible do you believe our project is? How would you suggest focusing our project so that it can be completed within a semester?
 - Do you think it is feasible to use Chiplet and FPGA to create a multi-sensor integration platform or AI reasoning acceleration platform for autonomous intelligent driving?
 - Or can we study the issues related to adaptive baud rate by combining chiplet and FPGA?
-- 
+- For a basic chiplet to be implemented on top of an fpga, what features should it have?
 
 # Evan Lang
 - How do you model chiplets?
