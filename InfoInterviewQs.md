@@ -5,6 +5,7 @@
 - Have you worked with chiplets in the past? Do you have any information on the application of chiplets in FPGA design?
 - How feasible do you believe our project is? How would you suggest focusing our project so that it can be completed within a semester?
 - Do you think it is feasible to use Chiplet and FPGA to create a multi-sensor integration platform or AI reasoning acceleration platform for autonomous intelligent driving?
+- Or can we study the issues related to adaptive baud rate by combining chiplet and FPGA?
 - 
 
 # Evan Lang
