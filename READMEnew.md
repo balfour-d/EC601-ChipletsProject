@@ -10,6 +10,7 @@ The main users of this product would be product designers, as they would be the 
 
 ## User Stories: 
 As a product designer, I want the ADC/DAC system to be more modular, making it easier to maintain and upgrade.<br>
+As a product designer, I want to enhance system modularity and scalability using chiplet technology.<br>
 As a product designer, I want to reduce the complexity and cost of design through chiplet technology.<br>
 As a product designer, I want to easily scale up or down the ADC/DAC functionalities according to different application needs.<br>
 As a product designer, I want the chiplet design to ensure more stable and precise performance.<br>
