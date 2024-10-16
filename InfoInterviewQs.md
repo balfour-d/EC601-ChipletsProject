@@ -12,3 +12,4 @@
 - How do you model chiplets? (we are contemplating Altium Designer or LTspice)
 - What is the size cap on functionality per chiplet? (How much is too much to make one chiplet do?)
 - If we choose DAC, should we focus on making one module or should we make every module?
+- Do we need to integrate or personalize related modules?
