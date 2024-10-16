@@ -13,3 +13,5 @@
 - What is the size cap on functionality per chiplet? (How much is too much to make one chiplet do?)
 - If we choose DAC, should we focus on making one module or should we make every module?
 - Do we need to integrate or personalize related modules?
+- Should we focus on extensive simulation for individual chiplets or prioritize integration testing early in the process?
+- What communication protocols should we use between chiplets?
