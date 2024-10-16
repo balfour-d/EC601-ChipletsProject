@@ -9,7 +9,5 @@
 - For a basic chiplet to be implemented on top of an fpga, what features should it have?
 
 # Evan Lang
-- How do you model chiplets?
-- Did you work on chiplet FPGA? Is there any design guidance you can offer?
+- How do you model chiplets? (we are contemplating Altium Designer or LTspice)
 - What is the size cap on functionality per chiplet? (How much is too much to make one chiplet do?)
-- 
