@@ -8,7 +8,8 @@
 - look into chiplets that match our breakdown
 
 ## Progress
-- https://www.ti.com/solution/precision-multifunction-input-output-daq?variantid=283160&subsystemid=283302 
+- https://www.ti.com/solution/precision-multifunction-input-output-daq?variantid=283160&subsystemid=283302
+- https://dspace.mit.edu/bitstream/handle/1721.1/157034/liu-mqliu-meng-eecs-2024-thesis.pdf?sequence=1&isAllowed=y
 
 # Sprint 4 
 
