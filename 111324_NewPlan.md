@@ -4,7 +4,8 @@ and low pass filters to measure heartbeat and remove all unecessary frequencies 
 
 # Steps
 - recreate full circuit on LTSpice
--   Look into replacing throughhole components with board mounted to simulate a PCB versus breadboard design
+  - Look into replacing throughhole components with board mounted to simulate a PCB versus breadboard design
+  - show inputs and outputs of lpf and hpf to compare to individual circuits
 - create specific high and low pass filters with same components and demonstrate their function
 - measure difference in scale between monolithic design and chiplet design
   - figure out how large a full board versus a singular hpf or lpf would be
