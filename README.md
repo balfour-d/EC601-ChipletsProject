@@ -25,3 +25,8 @@ As a product designer, I want the ADC/DAC system to be more modular, making it e
 As a product designer, I want to reduce the complexity and cost of design through chiplet technology.<br>
 As a product designer, I want to easily scale up or down the ADC/DAC functionalities according to different application needs.<br>
 
+
+## References:
+M. Ahmad, J. DeLaCruz and A. Ramamurthy, "Heterogeneous Integration of Chiplets: Cost and Yield Tradeoff Analysis" <br>
+G. H. Loh, S. Naffziger and K. Lepak, "Understanding Chiplets Today to Anticipate Future Integration Opportunities and Limits"<br>
+Gujar, Vivek "Chiplet Technology: Revolutionizing Semiconductor Design-A Review"
